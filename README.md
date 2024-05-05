@@ -1,4 +1,4 @@
-### Simple File System (C in VS Code)
+### Simple File System (C in VisualStudioCode)
 
 > Developed a simple file system for .img files that supports creating, reading, writing, and deleting files and directories, including mounting and unmounting of the file system.
 
