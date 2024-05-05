@@ -1,6 +1,6 @@
-### Simple File System (C in VisualStudioCode)
+# Simple File System (C in VisualStudioCode)
 
-> Developed a simple file system for .img files that supports creating, reading, writing, and deleting files and directories, including mounting and unmounting of the file system.
+Developed a simple file system for .img files that supports creating, reading, writing, and deleting files and directories, including mounting and unmounting of the file system.
 
 1. **File System Structure Design**:
    - **Functionality**: Design a file system structure for .img disk image files, including metadata, file allocation table, directory structure, and data blocks.
